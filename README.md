@@ -1,1 +1,3 @@
 # jogo-stealth
+
+*FEITO PARA TRABALHO ESCOLAR*
